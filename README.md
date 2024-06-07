@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Bachelor Degree in Computer Science with a con/ Software Engineering**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python & C++**
 
 - 👯 I’m looking to collaborate on **beginner projects**
 
